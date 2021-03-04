@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "TERMINAL X - blogger extension",
+  "description": "Extension for bloggers for easily creating a list of products ids.",
+  "version": "1.1",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab",
+    "storage"
+  ]
+}

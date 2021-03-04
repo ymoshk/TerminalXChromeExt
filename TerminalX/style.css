@@ -1,0 +1,22 @@
+body {
+    min-width: 300px;
+    height: 370px;
+}
+
+div {
+    margin: auto;
+}
+
+.buttons-div {
+    padding-bottom: 5px;
+    margin-top: 5px;
+}
+
+.list-div {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#list {
+    height: 270px;
+}
